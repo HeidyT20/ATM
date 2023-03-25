@@ -15,4 +15,10 @@ public class Pantalla {
        System.out.print(mensaje);
    
    } 
+      public void mostrarMensaje2(String mensaje2) {
+       System.out.println(mensaje2);
+   } 
+      public void mostrarMensaje3(String mensaje3) {
+       System.out.println(mensaje3);
+   } 
 }
